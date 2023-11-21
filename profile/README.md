@@ -2,7 +2,11 @@
 
 ![banner](https://user-images.githubusercontent.com/332151/269221553-9a9cb995-3a3a-4370-9b3c-ca7b05c47313.jpg)
 
-[ZetaChain](https://www.zetachain.com/) is a layer 1 blockchain and developer platform that connects any L1 and L2, from Ethereum to Bitcoin and beyond. Access all of crypto in one place.
+[ZetaChain](https://www.zetachain.com/) is a blockchain focused on
+interoperability. It provides an EVM-based platform for developers to build and
+deploy omnichain contracts, which can be called from any connected chain,
+including Bitcoin. It also supports cross-chain messaging between connected
+chains.
 
 ### Build an Omnichain dApp
 
