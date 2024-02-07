@@ -41,7 +41,6 @@ of pinned repos below for the projects to contribute to.
 
 ### We Are Hiring!
 
-
 [See our website for more information.](https://www.zetachain.com/careers)
 
 [Website](https://zetachain.com/) • 
