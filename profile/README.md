@@ -39,7 +39,12 @@ Cosmos SDK and Comet BFT. Protocol contracts implement the core protocol and are
 deployed on ZetaChain and on connected chains, written in Solidity. See the list
 of pinned repos below for the projects to contribute to.
 
-[Website](https://zetachain.com/) • [Docs](https://www.zetachain.com/docs/) •
+### We Are Hiring!
+
+[See our website for more information.](https://www.zetachain.com/careers)
+
+[Website](https://zetachain.com/) • 
+[Docs](https://www.zetachain.com/docs/) •
 [Twitter](https://twitter.com/zetablockchain) •
 [Telegram](https://t.me/zetachainofficial) •
 [Discord](https://discord.gg/zetachain)
