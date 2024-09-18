@@ -13,9 +13,9 @@ chains.
 - Check out the introduction to
   [building on ZetaChain](https://www.zetachain.com/docs/developers/overview/)
 - Follow tutorials to create your
-  [first omnichain contract](https://www.zetachain.com/docs/developers/omnichain/tutorials/hello/)
+  [first omnichain contract](UPDATE_LINK)
   or
-  [a cross-chain messaging contract](https://www.zetachain.com/docs/developers/cross-chain-messaging/examples/hello-world/)
+  [a cross-chain messaging contract](UPDATE_LINK)
 - Watch
   [an introduction to ZetaChain](https://www.youtube.com/watch?v=_HDjDUDkdnQ)
   for developers
@@ -25,10 +25,10 @@ chains.
 ### Validate on the Network
 
 - Learn
-  [how to set up a blockchain node](https://www.zetachain.com/docs/validators/running-a-full-node/)
+  [how to set up a blockchain node](UPDATE_LINK)
   to become a validator on the testnet
 - Explore the network using one of the
-  [supported explorers](https://www.zetachain.com/docs/reference/explorers/)
+  [supported explorers](UPDATE_LINK)
 - Join the `#nodes-discussion` channel
   [on Discord](https://discord.gg/zetachain) to discuss technical issues
 
@@ -38,6 +38,12 @@ ZetaChain's blockchain node implements the core protocol, written in Go using
 Cosmos SDK and Comet BFT. Protocol contracts implement the core protocol and are
 deployed on ZetaChain and on connected chains, written in Solidity. See the list
 of pinned repos below for the projects to contribute to.
+
+### Responsible Disclosure
+
+If you’ve found a security issue or vulnerability in our project, we would love to hear from you! Please let us know responsibly so we can fix it quickly and keep the community safe.
+
+You can find our [Responsible Disclosure Page](https://hackenproof.com/company/zetachain/programs) for scope and rules of engagement. We appreciate your support and making the community safer!
 
 ### We Are Hiring!
 
