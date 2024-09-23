@@ -13,7 +13,7 @@ chains.
 - Check out the introduction to
   [building on ZetaChain](https://www.zetachain.com/docs/developers/overview/)
 - Follow tutorials to create your
-  [first omnichain contract](UPDATE_LINK)
+  [first omnichain contract](https://www.zetachain.com/docs/developers/tutorials/hello/)
   or
   [a cross-chain messaging contract](UPDATE_LINK)
 - Watch
