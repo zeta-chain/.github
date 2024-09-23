@@ -14,8 +14,6 @@ chains.
   [building on ZetaChain](https://www.zetachain.com/docs/developers/overview/)
 - Follow tutorials to create your
   [first omnichain contract](https://www.zetachain.com/docs/developers/tutorials/hello/)
-  or
-  [a cross-chain messaging contract](UPDATE_LINK)
 - Watch
   [an introduction to ZetaChain](https://www.youtube.com/watch?v=_HDjDUDkdnQ)
   for developers
@@ -28,7 +26,7 @@ chains.
   [how to set up a blockchain node](https://www.zetachain.com/docs/nodes/start-here/setup/)
   to become a validator on the testnet
 - Explore the network using one of the
-  [supported explorers](UPDATE_LINK)
+  [supported explorers](https://www.zetachain.com/docs/reference/apps/explorers/))
 - Join the `#nodes-discussion` channel
   [on Discord](https://discord.gg/zetachain) to discuss technical issues
 
