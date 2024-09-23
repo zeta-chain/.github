@@ -25,7 +25,7 @@ chains.
 ### Validate on the Network
 
 - Learn
-  [how to set up a blockchain node](UPDATE_LINK)
+  [how to set up a blockchain node](https://www.zetachain.com/docs/nodes/start-here/setup/)
   to become a validator on the testnet
 - Explore the network using one of the
   [supported explorers](UPDATE_LINK)
