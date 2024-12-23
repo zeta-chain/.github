@@ -49,6 +49,6 @@ You can find our [Responsible Disclosure Page](https://hackenproof.com/company/z
 
 [Website](https://zetachain.com/) • 
 [Docs](https://www.zetachain.com/docs/) •
-[Twitter](https://twitter.com/zetablockchain) •
+[X (formerly Twitter)](https://x.com/zetablockchain) •
 [Telegram](https://t.me/zetachainofficial) •
 [Discord](https://discord.gg/zetachain)
