@@ -10,13 +10,10 @@ chains.
 
 ### Build an Omnichain dApp
 
-- Check out the introduction to
-  [building on ZetaChain](https://www.zetachain.com/docs/developers/overview/)
+- Check out the introduction to [building on ZetaChain](https://www.zetachain.com/docs/developers/apps/intro/)
 - Follow tutorials to create your
   [first omnichain contract](https://www.zetachain.com/docs/developers/tutorials/hello/)
-- Watch
-  [an introduction to ZetaChain](https://www.youtube.com/watch?v=_HDjDUDkdnQ)
-  for developers
+- Watch [the latest dev videos](https://www.youtube.com/playlist?list=PLnWCe_QuLBy2NsF-BdK47XEp0FDoYcyZw)
 - Join the `#dev-general` channel [on Discord](https://discord.gg/zetachain) to
   discuss technical issues
 
