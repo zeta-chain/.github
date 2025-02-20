@@ -9,7 +9,7 @@ beyond.
 ### Build a Universal App
 
 - Check out the introduction to [building on
-  ZetaChain](https://www.zetachain.com/docs/developers/apps/intro/)
+  ZetaChain](https://www.zetachain.com/docs/start/zetachain/)
 - Follow tutorials to create your [first universal app
   contract](https://www.zetachain.com/docs/developers/tutorials/hello/)
 - Watch [an introduction to
@@ -49,6 +49,6 @@ engagement. We appreciate your support and making the community safer!
 [See our website for more information.](https://www.zetachain.com/careers)
 
 [Website](https://zetachain.com/) • [Docs](https://www.zetachain.com/docs/) •
-[Twitter](https://x.com/zetablockchain) •
+[X](https://x.com/zetablockchain) •
 [Telegram](https://t.me/zetachainofficial) •
 [Discord](https://discord.gg/zetachain)
