@@ -49,6 +49,6 @@ engagement. We appreciate your support and making the community safer!
 [See our website for more information.](https://www.zetachain.com/careers)
 
 [Website](https://zetachain.com/) • [Docs](https://www.zetachain.com/docs/) •
-[X](https://x.com/zetablockchain) •
+[X](https://x.com/zetachain) •
 [Telegram](https://t.me/zetachainofficial) •
 [Discord](https://discord.gg/zetachain)
