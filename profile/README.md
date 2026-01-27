@@ -2,9 +2,11 @@
 
 ![banner](https://user-images.githubusercontent.com/332151/269221553-9a9cb995-3a3a-4370-9b3c-ca7b05c47313.jpg)
 
-[ZetaChain](https://www.zetachain.com/) is a blockchain for universal omnichain
-apps that span across any blockchain, from Ethereum and Cosmos to Bitcoin and
-beyond.
+[ZetaChain](https://www.zetachain.com/) is the universal layer for AI and Web3,
+letting developers build apps that run across chains and models, keep memory private,
+and monetize without infrastructure. With native connectivity across major blockchains
+and an AI interoperability stack powered by a Private Memory Layer, ZetaChain is building
+the foundation for the next generation of apps, agents, and experiences.
 
 ### Build a Universal App
 
